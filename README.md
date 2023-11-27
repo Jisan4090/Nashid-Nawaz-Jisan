@@ -1,1 +1,1 @@
-# Nashid-Nawaz-Jisan
+# Store management System
